@@ -1,3 +1,25 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "1",
+      "title": "Amanecer en la Montaña",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra1.jpg",
+      "year": 2024
+    },
+    {
+      "id": "2", 
+      "title": "Reflejos del Lago",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra2.jpg",
+      "year": 2024
+    },
+    {
+      "id": "3",
+      "title": "Bosque Otoñal",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra3.jpg",
+      "year": 2024
+    }
+  ]
 }
