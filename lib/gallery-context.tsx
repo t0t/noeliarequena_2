@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useContext, useState, useEffect } from "react";
+import { createContext, useContext, useState } from "react";
 import galleryData from "@/data/gallery.json";
 import { GalleryItem } from "@/types/gallery";
 
@@ -20,23 +20,6 @@ const GalleryContext = createContext<GalleryContextType>({
 
 export function GalleryProvider({ children }: { children: React.ReactNode }) {
   const [items, setItems] = useState<GalleryItem[]>(galleryData.items);
-
-  useEffect(() => {
-    if (process.env.NODE_ENV === "development") {
-      const savedItems = localStorage.getItem("galleryItems");
-      if (savedItems) {
-        setItems(JSON.parse(savedItems));
-      } else {
-        localStorage.setItem("galleryItems", JSON.stringify(items));
-      }
-    }
-  }, []);
-
-  useEffect(() => {
-    if (process.env.NODE_ENV === "development") {
-      localStorage.setItem("galleryItems", JSON.stringify(items));
-    }
-  }, [items]);
 
   const addItem = (item: Omit<GalleryItem, "id">) => {
     if (process.env.NODE_ENV === "development") {

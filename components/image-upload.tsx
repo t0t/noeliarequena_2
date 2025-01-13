@@ -27,12 +27,13 @@ export function ImageUpload({ onImageUpload, currentImage }: ImageUploadProps) {
       return;
     }
 
-    // En desarrollo, usamos una URL de placeholder
-    const imageUrl = `https://source.unsplash.com/random/800x600?art,painting&${Date.now()}`;
+    // Generar nombre de archivo basado en el nombre original
+    const fileName = file.name.toLowerCase().replace(/[^a-z0-9.]/g, '-');
+    const imageUrl = `/images/gallery/${fileName}`;
     onImageUpload(imageUrl);
 
     // Mostrar mensaje informativo
-    setError("⚠️ En desarrollo: La imagen se reemplazará con una temporal. En producción, deberás colocar las imágenes en /public/images/gallery/");
+    setError("⚠️ Imagen guardada como: " + imageUrl);
   };
 
   return (
