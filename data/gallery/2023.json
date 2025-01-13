@@ -1,0 +1,65 @@
+{
+  "year": 2023,
+  "items": [
+    {
+      "id": "11",
+      "title": "Cielo Estrellado",
+      "description": "Óleo sobre lienzo, 2023",
+      "image": "/images/gallery/obra11.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Jardín de Primavera",
+      "description": "Óleo sobre lienzo, 2023",
+      "image": "/images/gallery/obra12.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Playa al Atardecer",
+      "description": "Óleo sobre lienzo, 2023",
+      "image": "/images/gallery/obra13.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Montañas Nevadas",
+      "description": "Óleo sobre lienzo, 2023",
+      "image": "/images/gallery/obra14.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Campos de Lavanda",
+      "description": "Óleo sobre lienzo, 2023",
+      "image": "/images/gallery/obra15.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Río en Otoño",
+      "description": "Óleo sobre lienzo, 2023",
+      "image": "/images/gallery/obra16.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Bosque de Pinos",
+      "description": "Óleo sobre lienzo, 2023",
+      "image": "/images/gallery/obra17.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Amanecer en el Mar",
+      "description": "Óleo sobre lienzo, 2023",
+      "image": "/images/gallery/obra18.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Valle Florido",
+      "description": "Óleo sobre lienzo, 2023",
+      "image": "/images/gallery/obra19.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Sendero del Bosque",
+      "description": "Óleo sobre lienzo, 2023",
+      "image": "/images/gallery/obra20.jpg"
+    }
+  ]
+}

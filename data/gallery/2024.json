@@ -1,0 +1,65 @@
+{
+  "year": 2024,
+  "items": [
+    {
+      "id": "1",
+      "title": "Amanecer en la Montaña",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Reflejos del Lago",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Bosque Otoñal",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra3.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Atardecer en el Valle",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra4.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Mar en Calma",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra5.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Flores Silvestres",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra6.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Camino al Horizonte",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra7.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Niebla en el Bosque",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra8.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Cascada Serena",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra9.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Praderas Verdes",
+      "description": "Óleo sobre lienzo, 2024",
+      "image": "/images/gallery/obra10.jpg"
+    }
+  ]
+}

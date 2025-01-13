@@ -1,0 +1,65 @@
+{
+  "year": 2022,
+  "items": [
+    {
+      "id": "21",
+      "title": "Lago de Montaña",
+      "description": "Óleo sobre lienzo, 2022",
+      "image": "/images/gallery/obra21.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Puesta de Sol",
+      "description": "Óleo sobre lienzo, 2022",
+      "image": "/images/gallery/obra22.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Campos de Trigo",
+      "description": "Óleo sobre lienzo, 2022",
+      "image": "/images/gallery/obra23.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Costa Rocosa",
+      "description": "Óleo sobre lienzo, 2022",
+      "image": "/images/gallery/obra24.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Bosque Nevado",
+      "description": "Óleo sobre lienzo, 2022",
+      "image": "/images/gallery/obra25.jpg"
+    },
+    {
+      "id": "26",
+      "title": "Pradera en Primavera",
+      "description": "Óleo sobre lienzo, 2022",
+      "image": "/images/gallery/obra26.jpg"
+    },
+    {
+      "id": "27",
+      "title": "Acantilados",
+      "description": "Óleo sobre lienzo, 2022",
+      "image": "/images/gallery/obra27.jpg"
+    },
+    {
+      "id": "28",
+      "title": "Arroyo de Montaña",
+      "description": "Óleo sobre lienzo, 2022",
+      "image": "/images/gallery/obra28.jpg"
+    },
+    {
+      "id": "29",
+      "title": "Cielo Tormentoso",
+      "description": "Óleo sobre lienzo, 2022",
+      "image": "/images/gallery/obra29.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Desierto al Amanecer",
+      "description": "Óleo sobre lienzo, 2022",
+      "image": "/images/gallery/obra30.jpg"
+    }
+  ]
+}
