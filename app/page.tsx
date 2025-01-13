@@ -53,7 +53,7 @@ const slides = [
 ];
 
 // Background image path
-const backgroundImage = "/images/slideshow/bg4.jpg";
+const backgroundImage = "/images/bg4.jpg";
 
 export default function Home() {
   const [currentSlide, setCurrentSlide] = useState(0);
